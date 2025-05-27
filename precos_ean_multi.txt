@@ -1,0 +1,12 @@
+Preços para EAN '7503002941409':
+
+Mercado Livre:
+  Item 1: Erro ao buscar preços
+
+Amazon:
+  Item 1: R$11
+50
+
+Magazine Luiza:
+  Item 1: Erro ao buscar preços
+
